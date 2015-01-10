@@ -217,15 +217,15 @@ return array (
   'Version' => 'Version',
   'Warning: This will affect all servers running on the selected daemon(s)!
 
-Selected action: ' => 'Achtung: Dies betrifft alle Server auf den ausgewählten Daemons!
+Selected action: ' => 'Bemærk: Dette vil påvirke alle kørende servere på de valgte dæmon(er)!
 
 Ausgewählte Aktion: ',
   'Warning: This will delete all players that haven\'t been explicitly assigned a role. This will be the vast majority of player entries and the "last seen", "quit reason" and "IPs" information for these players will be lost. Proceed?' => 'Achtung: Dies löscht alle Spieler welche nicht explizit eine Rolle zugewiesen bekommen haben. Das ist die große Mehrheit aller Spieler Einträge und die "zuletzt gesehen", "Quit Grund", "IPs" Informationen dieser Spieler geht verloren. Fortfahren?',
-  'Welcome Mail' => 'Willkommens E-Mail',
-  'When you want to delete the "example.jar.conf" you can enter "example.jar" as the file to delete and then select ".conf File" in the drop down menu. Seleting "Both Files" will delete both the "example.jar" and the "example.jar.conf".' => 'Wenn Sie die "example.jar.conf" löschen wollen können Sie "example.jar" als Datei zum löschen angeben und dann ".conf Datei" auswählen im Drop-Down Menü. "Beide Dateien" löscht sowohl "example.jar" als auch "example.jar.conf".',
-  'Your current panel version is {v}' => 'Die installierte Panel Version ist {v}',
-  'empty to hide the "Support" menu entry' => 'leer um den "Hilfe" Menü Eintrag auszublenden',
-  'false' => 'nein',
-  'in seconds' => 'in Sekunden',
-  'true' => 'ja',
+  'Welcome Mail' => 'Velkomst Mail',
+  'When you want to delete the "example.jar.conf" you can enter "example.jar" as the file to delete and then select ".conf File" in the drop down menu. Seleting "Both Files" will delete both the "example.jar" and the "example.jar.conf".' => '',
+  'Your current panel version is {v}' => 'Panelets nuværende version er {v}',
+  'empty to hide the "Support" menu entry' => 'Tomt for at skjule "Support" menu',
+  'false' => 'falsk',
+  'in seconds' => 'i sekunder',
+  'true' => 'sandt',
 );
